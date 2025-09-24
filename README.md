@@ -1,0 +1,1 @@
+Note: It doesn't look like this Repo shows anything really readable, it looks like it turned everything into raw .uasset files but I showed a little bit of what I worked on in the node window in the video submission.
